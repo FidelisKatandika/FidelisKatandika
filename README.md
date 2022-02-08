@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FidelisKatandika
-- 👀 I’m interested in Enterprise and Open Source Databases, Machine Learning and Andriod Programming
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Programming projects with Java, PHP and Python
+- 👀 I’m interested in Enterprise and Open Source Databases
 - 📫 How to reach me fidelis.katandika@gmail.com
 
 <!---
